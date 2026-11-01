@@ -53,12 +53,7 @@ I write **[Let's Develop Better](https://deepakatariya.substack.com)** — syste
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepakAtariya&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakAtariya&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakAtariya&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="150" />
 </p>
 
 ## 📫 Reach me
